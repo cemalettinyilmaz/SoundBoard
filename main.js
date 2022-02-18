@@ -6,7 +6,7 @@ const tadaBtn=document.getElementById("tadaBtn");
 const victoryBtn=document.getElementById("victoryBtn");
 const wrongBtn=document.getElementById("wrongBtn");
 
-console.log(booBtn,applauseBtn,gaspBtn,tadaBtn,victoryBtn,wrongBtn);
+
 
 const sound=document.getElementById("sound");
 
